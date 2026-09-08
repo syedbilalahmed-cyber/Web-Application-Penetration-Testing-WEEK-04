@@ -358,11 +358,6 @@ The second phase focuses on evaluating how the authorized web application handle
 | **Burp Repeater** | Re-test selected requests |
 | **cURL** | Review HTTP responses where required |
 
-### 📸 Evidence
-
-Evidence collected during M2 is organized in the following directory:
-
-
 # 🧪 M3 — Vulnerability Identification & Controlled Validation
 
 ## 🎯 Objective
@@ -599,6 +594,27 @@ Individual findings will also be reviewed to determine whether multiple weakness
                      ▼
               Potential Impact
 ```
+
+
+### 📸 All Evidence:
+<img width="803" height="776" alt="image" src="https://github.com/user-attachments/assets/73b3cfed-def0-486d-bb1f-1d16d5ac020b" />
+<img width="791" height="758" alt="image" src="https://github.com/user-attachments/assets/865f84f3-16ca-4441-8e13-669aaeb0341a" />
+<img width="820" height="760" alt="image" src="https://github.com/user-attachments/assets/2f587a11-e8d4-45ec-bc31-bbe367003c4a" />
+<img width="911" height="880" alt="image" src="https://github.com/user-attachments/assets/20d1978f-bf5d-4533-a981-9780f4fa650f" />
+<img width="1006" height="509" alt="image" src="https://github.com/user-attachments/assets/940dc50f-356f-4176-8e79-8385f616c11d" />
+<img width="579" height="591" alt="image" src="https://github.com/user-attachments/assets/bce64e12-1a2a-44a5-9003-40f002f6de2a" />
+<img width="998" height="410" alt="image" src="https://github.com/user-attachments/assets/d1c48131-19c6-4192-a3c6-9bdd5b6a22f4" />
+<img width="760" height="521" alt="image" src="https://github.com/user-attachments/assets/6e5065cc-ade5-4c0f-8a87-d2e67aa5c72f" />
+<img width="883" height="623" alt="image" src="https://github.com/user-attachments/assets/840d2e72-d413-47f6-9b75-3aa348f2734d" />
+<img width="705" height="463" alt="image" src="https://github.com/user-attachments/assets/6b9351a0-d37e-457c-8f88-ab096ff87a8c" />
+<img width="1007" height="371" alt="image" src="https://github.com/user-attachments/assets/1d763731-c3c7-4cd2-ab21-c46f47ffe448" />
+<img width="941" height="593" alt="image" src="https://github.com/user-attachments/assets/2fe40f16-37d3-4ed8-ac25-7916bee476fa" />
+<img width="917" height="585" alt="image" src="https://github.com/user-attachments/assets/e77a719d-8035-4c30-b201-4c8cdd3f212a" />
+<img width="650" height="409" alt="image" src="https://github.com/user-attachments/assets/ecb6147c-a01b-45e5-b81b-543b79d4d650" />
+<img width="458" height="293" alt="image" src="https://github.com/user-attachments/assets/e30c3fb2-a57a-4467-a88a-b1c7197bf190" />
+<img width="966" height="612" alt="image" src="https://github.com/user-attachments/assets/ce0d2cb7-608a-47dd-bf2a-18e5b8472970" />
+
+
 # 👨‍🏫 Mentor
 
 **Waqas Karim (CCIE)**
